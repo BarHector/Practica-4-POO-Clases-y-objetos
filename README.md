@@ -25,6 +25,6 @@ Cx^n + Cx^n-1 + ...
 
 ARCHIVOS INCLUIDOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Se incluyen los archivos de texto, se incluyen todos los .java, .class, .jar y .zip utilizados y entregados.
+Se incluyen los .txt (para las pruebas), .java, .jar y .zip utilizados y entregados.
 
-Ademas se incluye el manual de la práctica con el proposito de explicar los temas que se están desarrollando en el programa, contiene algunos ejemplos para una mejor comprensión
+Ademas del manual de la práctica con el proposito de explicar los temas que se están desarrollando en el programa, contiene algunos ejemplos para una mejor comprensión
